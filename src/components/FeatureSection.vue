@@ -12,8 +12,8 @@
                 class="lg:col-span-2 lg:col-start-1 lg:row-start-1 lg:mx-auto lg:grid lg:w-full lg:max-w-7xl lg:grid-cols-2 lg:gap-x-8 lg:px-8">
                 <div class="lg:pr-4">
                     <div class="lg:max-w-lg">
-                        <p class="text-base font-semibold leading-7 text-indigo-600">Transform Your Business</p>
-                        <h1 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Next-Gen Software
+                        <p class="text-base font-semibold leading-7 text-indigo-600">Elevate Your Business</p>
+                        <h1 class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Bermuda Software
                             Solutions</h1>
                         <p class="mt-6 text-xl leading-8 text-gray-700">
                             Accelerate your success with our bespoke software solutions. We build robust systems from
@@ -33,7 +33,7 @@
                 <div class="lg:pr-4">
                     <div class="max-w-xl text-base leading-7 text-gray-700 lg:max-w-lg">
                         <p>
-                            Our mission is to elevate your business with cutting-edge technology. We provide top-tier
+                            Our mission is to empower your business with cutting-edge technology. We provide top-tier
                             software development services, including:
                         </p>
                         <ul role="list" class="mt-8 space-y-8 text-gray-600">
@@ -65,7 +65,7 @@
                             enhance your business, not hinder it. Let us handle the technicalities while you focus on your
                             core objectives.
                         </p>
-                        <h2 class="mt-16 text-2xl font-bold tracking-tight text-gray-900">Seamless Scalability</h2>
+                        <h2 class="mt-16 text-2xl font-bold tracking-tight text-gray-900">Scalable Solutions</h2>
                         <p class="mt-6">
                             With our scalable solutions, you can grow your business without limits. We ensure your systems
                             are flexible and adaptable to meet your
@@ -82,4 +82,3 @@
 <script setup>
 import { CloudArrowUpIcon, LockClosedIcon, ServerIcon } from '@heroicons/vue/20/solid';
 </script>
-
