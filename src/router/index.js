@@ -3,7 +3,9 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 import PortfolioView from '../views/PortfolioView.vue'
 import FeatureView from '../views/FeatureView.vue'
-import ContactView from  '../views/ContactView.vue'
+import ContactView from '../views/ContactView.vue'
+import PricingView from '../views/PricingView.vue'
+import ProjectsView from '../views/ProjectsView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -25,6 +27,16 @@ const router = createRouter({
       path: '/feature',
       name: 'feature',
       component: FeatureView
+    },
+      {
+      path: '/pricing',
+      name: 'pricing',
+      component: PricingView
+    },
+      {
+      path: '/projects',
+      name: 'projects',
+      component: ProjectsView
     },
     {
       path: '/contact',
