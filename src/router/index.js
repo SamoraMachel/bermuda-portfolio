@@ -15,6 +15,11 @@ const router = createRouter({
       name: 'home',
       component: PortfolioView
     },
+       {
+      path: '/projects',
+      name: 'projects',
+      component: ProjectsView
+    },
     {
       path: '/about',
       name: 'about',
@@ -33,11 +38,7 @@ const router = createRouter({
       name: 'pricing',
       component: PricingView
     },
-      {
-      path: '/projects',
-      name: 'projects',
-      component: ProjectsView
-    },
+   
     {
       path: '/contact',
       name: 'contact',
