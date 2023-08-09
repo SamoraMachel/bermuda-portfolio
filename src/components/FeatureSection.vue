@@ -19,7 +19,7 @@
                             Accelerate your success with our bespoke software solutions. We build robust systems from
                             scratch, delivering on-time with exceptional quality and design.
                         </p>
-                    </div>
+                    </div>  
                 </div>
             </div>
             <div
